@@ -33,7 +33,6 @@
     "8d65dd7dbc246cda",
     "f48ec3c9c0753dfc",
     "4c2a4c62b3187d0a",
-    "e17a27c6e60b6919",
     "3332a6594f00f332",
     "b98a116326696d37",
     "0af3df255e2fbe1e",
@@ -77,5 +76,7 @@
     "279601f4cb08fe0b",
     "e5ec1bd908d2a0c2"
   ],
-  "yasakliCihazlar": []
+  "yasakliCihazlar": [
+    "e17a27c6e60b6919"
+  ]
 }
