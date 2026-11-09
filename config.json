@@ -70,11 +70,12 @@
     "b51390c5d65a7cab",
     "bd20c066b2fd2e54",
     "0a057d87060136d0",
-    "279601f4cb08fe0b",
     "cd08c2877f5b75f8",
     "a8228ac2cc723243",
     "56951a9e15368edb",
     "99a76ad308ea9e35"
   ],
-  "yasakliCihazlar": []
+  "yasakliCihazlar": [
+    "279601f4cb08fe0b"
+  ]
 }
