@@ -92,7 +92,6 @@
     "58db25683040cd6b",
     "7a876eafecdb8f25",
     "e96b677ce4418c08",
-    "4318fb82-db05-44c0-9be8-ac7cc3100b33",
     "57bc8bf771073ebd",
     "9f33bf90e52fe006",
     "5600ef1b5a78bc8b",
@@ -134,5 +133,7 @@
     "d458199cb9aa931d",
     "e2a24d0807b8646e"
   ],
-  "yasakliCihazlar": []
+  "yasakliCihazlar": [
+    "4318fb82-db05-44c0-9be8-ac7cc3100b33"
+  ]
 }
