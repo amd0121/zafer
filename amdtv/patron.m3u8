@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25
-https://8081-ifde4ms85nqna8ils5avv-ff191dea.sg1.manus.computer/index.m3u8?token=8KI4869_vJI55f_a2807Xkv85Z7SUL7I
+https://buffer-hls-proxy-kralolaf73.onrender.com/index.m3u8?token=adf2db504af22c1bbbf68221a2d6c674
