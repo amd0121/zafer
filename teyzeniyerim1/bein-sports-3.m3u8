@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="bein-sports-3" group-title="ZeusTV",beIN SPORTS 3
-https://zeus324226.cfd/m/AVRkUy1tqBU4WTw4EpcJfGKHvMudQpO_hHEGB6oLBBWOh3QxijTdU4d8fg
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=5500000,AVERAGE-BANDWIDTH=8976000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25
+https://css.d6e3ess6e065r5.help//b3/tracks-v1a1/mono.m3u8
